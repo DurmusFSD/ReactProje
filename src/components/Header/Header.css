@@ -1,0 +1,22 @@
+header {
+  background: #016a70;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 20px;
+  flex-wrap: wrap;
+}
+.logo {
+  font-size: 60px;
+  font-weight: 800;
+  letter-spacing: 5px;
+  color: #ffffdd;
+  text-decoration: underline;
+  text-decoration-color: #d2de32;
+}
+.logo span {
+  color: #d2de32;
+}
+
+
+

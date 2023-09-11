@@ -1,0 +1,16 @@
+.profile-side-section {
+    display: flex;
+    width: 100%;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 15px;
+    margin-top: 10px;
+  }
+  .profile-side-section h3 {
+    font-size: 25px;
+    font-weight: 500;
+  }
+  .profile-side-section span {
+    font-size: 20px;
+    font-weight: 400;
+  }
